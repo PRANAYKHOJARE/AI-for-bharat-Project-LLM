@@ -1,5 +1,5 @@
 ![Demo](images/1.png)
 ![Demo](images/2.png)
-![Demo](images/3.png)
-![Demo](images/4.png)
-![Demo](images/5.png)
+![Demo](images/3.jpeg)
+![Demo](images/4.jpeg)
+![Demo](images/5.jpeg)
